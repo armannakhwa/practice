@@ -15,3 +15,10 @@ $ git reset --hard 15dafb94c25c3fa8861afabcf7d4d55cf926f7c7
 
 git merge branchname
 
+delete branch
+git branch -D bn
+
+rename branch
+git branch -m <oldname> <newname>
+
+
