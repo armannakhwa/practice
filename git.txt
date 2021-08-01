@@ -5,6 +5,7 @@ $ git push -u origin main
 if any non forward error use this
 git push --force origin main
 
+git pull for get the updated data from github
 
 rollback previous commit
 $ git reset --hard 15dafb94c25c3fa8861afabcf7d4d55cf926f7c7
