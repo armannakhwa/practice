@@ -6,6 +6,10 @@ if any non forward error use this
 git push --force origin main
 
 
+
+
 rollback previous commit
 $ git reset --hard 15dafb94c25c3fa8861afabcf7d4d55cf926f7c7
+
+git merge branchname
 
