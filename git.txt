@@ -5,7 +5,9 @@ $ git push -u origin main
 if any non forward error use this
 git push --force origin main
 
-
+fetch specific branch data
+$ git fetch <remote-repo> <remote-branch>:<local-branch>
+$ git checkout <local-branch>
 
 
 rollback previous commit
