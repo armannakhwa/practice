@@ -1,0 +1,6 @@
+$ git add .
+git commit -am 'initial commit add some comments here' 
+$ git push -u origin main
+
+if any non forward error use this
+git push --force origin main
